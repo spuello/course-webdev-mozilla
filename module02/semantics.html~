@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Introduction to semantic elements</title>
+	</head>
+
+	<body>
+		<header>
+			<h2>Using the Markup Validator</h2>
+		</header>
+		<nav>
+			<!--You will learn about <a> tag later in this chapter-->
+			<a href="">What is the Markup Validator and what does it do?</a></br>
+			<a href="">Why validate ?</a></br>
+			<a href="">How do I use the Markup Validator</a></br>
+			<a href="">Many error messagees ? Don't panic</a></br>
+		</nav>
+		<section>
+			<h3>What is the Mackup Validator and what does it do?</h3>
+			<p>The Markup Validator is a free tool that and service that  
+				<a href="https://validator.w3.org/docs/help.html#validation_basics">validates markup</a>: in other words, 
+				it checks the syntax of Web documents, written in formats such as HTML
+	
+			</p>
+		</section>
+		<section>
+			<h3>Why validate?</h3>
+			<p>one of the important maxims of computer programing is : "be conservative in what you produce; 
+			be liberal in what you accept"</p>
+		</section>
+
+	</body>
+
+</html>
+
